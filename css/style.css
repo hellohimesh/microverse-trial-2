@@ -1,0 +1,15 @@
+#navbar{
+    width: 30%;
+    position: sticky;
+    top: 0;
+    left: 0;
+   
+    
+}
+#main-doc{
+    margin-left: 30%;
+}
+
+@media screen and (max-width : 600px){
+    #navbar { background-color: red;}
+}
